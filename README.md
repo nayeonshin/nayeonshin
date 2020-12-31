@@ -2,7 +2,7 @@
 
 Nayeon Shin
 - Phonetic spelling: nah-yeon schin
-- Pronouns: She/her/hers (but them/they is also fine)
+- Pronouns: She/her/hers (but they/them is also fine)
 - Candidate for a B.A. in Computer Science @ Mount Holyoke College
 - Minor: EOS (Entrepreneurship, Organizations, and Society) / Nexus: Global Business
 - Currently working on: Nonemtun Clone
