@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![HitCount](http://hits.dwyl.com/nayeonshin/nayeonshin/nayeonshin.svg)](http://hits.dwyl.com/nayeonshin/nayeonshin/nayeonshin)
+
 Nayeon Shin
 - Phonetic spelling: nah-yeon schin
 - Pronouns: She/her (but they/them is also fine)
